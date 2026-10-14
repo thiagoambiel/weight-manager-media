@@ -4,7 +4,7 @@ As imagens geradas em `receitas/` são ilustrativas e dedicadas ao domínio púb
 **As fotografias em `fotos/` NÃO são CC0.** Cada imagem conserva a licença de seu autor indicada abaixo.
 As versões WebP são adaptações recortadas em 640 × 480; a miniatura embarcada no aplicativo é 200 × 150.
 Licenças CC BY exigem crédito; CC BY-SA também exige distribuir adaptações sob a mesma licença.
-A licença CC0 do arquivo `LICENSE` aplica-se somente às ilustrações em `receitas/`, nunca a `fotos/`.
+A licença CC0 do arquivo `LICENSE` aplica-se às ilustrações em `receitas/` e `alimentos/`, nunca a `fotos/`. As imagens em `alimentos/` retratam alimentos TACO e são ilustrativas, não fotografias documentais.
 
 | Arquivo (`fotos/<id>.webp`) | Autor | Licença | Obra original |
 | --- | --- | --- | --- |
